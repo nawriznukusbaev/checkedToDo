@@ -76,7 +76,7 @@ class checkedToDo extends React.Component {
     }
 }
 
-export default ToDo;
+export default CheckedToDo;
 
 
 reportWebVitals();
