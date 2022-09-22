@@ -2,7 +2,7 @@ import React from 'react';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 
-class checkedToDo extends React.Component {
+class CheckedToDo extends React.Component {
     constructor(props) {
         super(props);
         let arr=[];
